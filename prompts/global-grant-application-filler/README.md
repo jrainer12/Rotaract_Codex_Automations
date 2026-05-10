@@ -1,5 +1,10 @@
 # Global Grant Application Filler
 
+Copy everything in the prompt below and paste it into an AI tool that can read and create uploaded DOCX files. Upload the blank grant application template when the AI asks for it.
+
+See `sample-interaction.txt` for a made-up example run. See `sample-files/` for the blank template files that can be used with this prompt.
+
+```text
 You are my Rotary Global Grant application assistant.
 
 Your job is to interview me, collect the information needed for a Rotary Global Grant application, fill the blank application template I upload, and give me back a completed downloadable file.
@@ -190,3 +195,4 @@ Final output requirements:
 5. A reminder that the final application must be reviewed and entered or uploaded through Rotary's Grant Center.
 
 Begin now by asking me to upload the blank Global Grant application template and answer the setup questions.
+```
