@@ -1,0 +1,129 @@
+Sample Interaction to Completion
+================================
+
+This is a made-up example. Names, places, costs, partners, and grant details are fictional.
+
+AI:
+Please upload the filled Global Grant application DOCX. If you also have the blank template, budget spreadsheet, vendor quotes, needs assessment, MOU, or other attachments, upload those too.
+
+User:
+Uploaded:
+- Clean-Water-for-San-Isidro-Schools-filled-global-grant-application.docx
+- global-grant-application-template-en.docx
+- vendor-quotes.pdf
+- needs-assessment.pdf
+
+AI:
+I reviewed the filled application and supporting files.
+
+Status: NEEDS REVISION
+
+1. Executive summary
+
+Grant type: Humanitarian project.
+
+Overall readiness: The application is mostly complete, but it needs revision before submission. The project concept, sponsors, budget, and sustainability plan are clear. The biggest issues are missing attachment confirmation, incomplete monitoring details, and one funding/budget clarification.
+
+Biggest blockers:
+- The cooperating organization MOU is mentioned as "draft pending" but not confirmed as signed.
+- The monitoring and evaluation section names two people, but does not clearly assign who collects which data.
+- Cash contribution processing support is mentioned, but not separated clearly from project funding.
+
+2. Critical missing items
+
+- Participants and Partners: Add whether the San Isidro School District MOU has been signed. If not signed, state the expected signature date.
+- Measuring Success: Assign each measure to a responsible collector and data source.
+- Funding: Clarify that the USD 450 cash-processing support is separate from the USD 35,000 project budget, if that is the intended structure.
+- Attachments: Confirm whether vendor quotes, needs assessment, training plan, and MOU are uploaded in the Grant Center.
+
+3. Section-by-section review
+
+Basic information:
+- Complete. Project name, grant type, location, and primary contacts are consistent.
+
+Committee members:
+- Complete. Three host and three international committee members are listed.
+- Conflict-of-interest answer is acceptable, but it would be stronger if it says no committee members, district officers, or sponsor club members have financial, family, employment, or governance relationships with vendors, cooperating organizations, or beneficiaries.
+
+Project overview:
+- Complete and clear. Beneficiaries and project objectives are specific.
+
+Area of focus:
+- Mostly complete. Water, sanitation, and hygiene is clearly supported.
+- Basic education and literacy is listed as secondary. The application should clarify that education benefits are indirect through improved attendance and hygiene education.
+
+Measuring success:
+- Needs revision. Measures are good, but responsibility is too broad.
+- Add who collects attendance data, who verifies installed equipment, who stores survey results, and who reports results to the grant committee.
+
+Suggested replacement language:
+"The San Isidro School District health coordinator will collect attendance records and training attendance sheets. School maintenance staff will complete monthly equipment checklists. Samuel Ortiz will review the collected data, verify completeness, and summarize results for the host and international sponsor committees."
+
+Location and dates:
+- Complete. Dates are consistent: September 1, 2026 through August 31, 2027.
+
+Participants and partners:
+- Needs revision. The school district role is clear, but signed MOU status is unresolved.
+- Add whether the Rotaract club is a partner only or will handle any grant-funded activity.
+
+Budget:
+- Mostly complete. The line items total USD 35,000.
+- Supporting documents are referenced, but attachment status is incomplete.
+
+Funding:
+- Needs clarification. Listed funding totals USD 35,000 and matches the budget.
+- Cash-processing support of USD 450 is mentioned, but the application should clearly state whether it is additional support outside the project budget.
+
+Sustainability:
+- Strong. The ownership and maintenance plan are clear.
+- Add the school district role in paying for replacement filters after year one.
+
+Grant-type-specific sections:
+- Humanitarian project sections are answered.
+- Vocational training team and scholarship sections are correctly marked not applicable.
+
+4. Budget and funding check
+
+Budget total: USD 35,000.
+Funding total: USD 35,000.
+Totals match: Yes.
+
+Exchange rate: 2 BZD = 1 USD. Local and USD amounts match the stated exchange rate.
+
+Concern:
+- USD 450 cash-processing support should be shown separately from the project budget unless Rotary's Grant Center calculates it differently during submission.
+
+5. Attachment checklist
+
+Present:
+- Vendor quotes PDF
+- Needs assessment PDF
+
+Missing:
+- Signed cooperating organization MOU
+- Final training plan
+
+Unclear or needs confirmation:
+- Whether vendor quotes are the exact quotes referenced in the budget
+- Whether the school district has approved equipment ownership and maintenance responsibilities
+
+6. Recommended fixes
+
+Participants and Partners:
+"The San Isidro School District will serve as the cooperating organization. Its MOU is expected to be signed by June 15, 2026 and uploaded before final submission. The district will coordinate school access, assign maintenance staff, support data collection, and own the installed equipment after the project."
+
+Funding:
+"The project budget and project funding total USD 35,000. The additional USD 450 cash-processing support for USD 9,000 in cash contributions will be provided separately and is not included as a project expense."
+
+Area of Focus:
+"Basic education and literacy is included as a secondary area because improved access to safe drinking water and hygiene education is expected to support student attendance and learning continuity. The primary area of focus remains Water, Sanitation, and Hygiene."
+
+7. Questions for you
+
+1. Has the San Isidro School District MOU been signed?
+2. Who will upload and maintain the monitoring records in the Grant Center?
+3. Should the USD 450 processing support be outside the project budget?
+4. Is the training plan final, and can it be attached?
+
+AI:
+Once you answer those questions, I can help produce a clean punch list or draft replacement wording for the application.
