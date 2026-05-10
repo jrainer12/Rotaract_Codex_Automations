@@ -1,0 +1,11 @@
+# JetBrains IDE project files
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
