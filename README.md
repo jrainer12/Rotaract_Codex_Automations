@@ -8,6 +8,7 @@ Each prompt lives in its own folder with a `README.md`. Open the folder for the 
 
 - [Global Grant Application Filler](./prompts/global-grant-application-filler/) - interviews you for a Rotary Global Grant application, fills the template, and returns a completed file.
 - [Global Grant Application Completeness Check](./prompts/global-grant-application-completeness-check/) - reviews a filled Rotary Global Grant application and reports missing, weak, or inconsistent items before submission.
+- [Service Project Finder](./prompts/service-project-finder/) - researches local needs and recommends realistic Rotary or Rotaract service project ideas that fit budget, volunteers, partners, and timeline.
 
 ## Folder Structure
 

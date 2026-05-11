@@ -1,0 +1,201 @@
+Sample Interaction to Completion
+================================
+
+This is a made-up example. Names, places, needs, partners, and costs are fictional. Use it only to understand the type of answers the prompt expects.
+
+AI:
+I can help find realistic Rotary service project ideas. Please answer these setup questions:
+1. What club or group is this for?
+2. What city, region, campus, or community do you want to serve?
+3. Who do you most want to help, if anyone specific?
+4. What is the rough budget?
+5. How many volunteers can realistically participate?
+6. Is this a one-day project, a multi-week project, or an ongoing service program?
+7. Do you already have partner organizations, schools, sponsors, or venues in mind?
+8. Are there causes your club especially cares about?
+9. Are there any limits I should respect?
+
+User:
+This is for the Rotaract Club of River City University. We want to serve River City, especially students and nearby families. Budget is probably under $1,000. We can get 12 to 18 volunteers. We'd like either a one-day project or something we can repeat monthly. We have a relationship with the campus food pantry and one elementary school nearby. Our club cares about food insecurity, literacy, and the environment. Most volunteers do not have cars, so anything near campus is better.
+
+AI:
+I will research local needs and then suggest project options that fit a small university-based Rotaract club with limited transportation.
+
+Research summary:
+- Local needs or signals found:
+  - The city food access map shows several low-access neighborhoods near campus.
+  - The school district's recent strategic plan mentions early literacy and attendance as priorities.
+  - The city sustainability office promotes neighborhood cleanup and recycling education.
+- Potential partner organizations:
+  - River City University Campus Food Pantry
+  - Lincoln Elementary School
+  - River City Sustainability Office
+  - River City Community Foundation
+- Relevant Rotary areas of focus:
+  - Basic education and literacy
+  - Community economic development
+  - Disease prevention and treatment
+  - Environment
+- Assumptions or facts to confirm:
+  - The campus food pantry can accept hygiene or snack-kit donations.
+  - Lincoln Elementary can host volunteers during after-school hours.
+  - The city can provide cleanup supplies or trash pickup support.
+
+Recommended project ideas:
+
+1. Pantry Power Packs
+- Concept: Assemble monthly food and hygiene support packs for students and nearby families through the campus food pantry.
+- Need addressed: Food insecurity and access to basic hygiene items.
+- Target beneficiaries: Students and families served by the pantry.
+- Rotary areas of focus: Community economic development, disease prevention and treatment.
+- Club fit: Works with 12 to 18 volunteers, can happen on campus, and can repeat monthly.
+- Estimated budget: $400 to $900 per packing day.
+- Volunteer roles: Donation drive leads, shopping team, packing team, inventory tracker, pantry liaison.
+- Possible partners: Campus Food Pantry, student government, local grocery stores.
+- Supplies or venue needs: Tables, boxes or bags, shelf-stable food, hygiene items, pantry storage.
+- Timeline: Two weeks to plan, one packing day, monthly repeat.
+- Measurable impact: Number of packs assembled, number of households served, items donated, repeat pantry requests.
+- Risks or constraints: Pantry storage limits and dietary restrictions.
+- First three next steps: Confirm pantry needs, request a current high-demand item list, ask two stores about donations.
+- Scores: Impact 4, feasibility 5, partner potential 5, cost fit 4, member engagement 4. Total: 22.
+
+2. Read and Refresh at Lincoln Elementary
+- Concept: Host a monthly reading afternoon with donated books and simple take-home literacy activities.
+- Need addressed: Early literacy support and student engagement.
+- Target beneficiaries: Elementary students.
+- Rotary areas of focus: Basic education and literacy.
+- Club fit: Strong match for university volunteers and existing school relationship.
+- Estimated budget: $150 to $600 per session.
+- Volunteer roles: Reading volunteers, activity leaders, book donation coordinator, school liaison.
+- Possible partners: Lincoln Elementary, campus education department, local bookstore.
+- Supplies or venue needs: Age-appropriate books, printed activities, name tags, classroom or library space.
+- Timeline: Three to four weeks to coordinate school approval, then monthly sessions.
+- Measurable impact: Students reached, books distributed, reading minutes, teacher feedback.
+- Risks or constraints: School volunteer background-check requirements.
+- First three next steps: Ask school about volunteer rules, identify grade levels, start a book drive.
+- Scores: Impact 4, feasibility 4, partner potential 4, cost fit 5, member engagement 5. Total: 22.
+
+3. Campus-to-Community Cleanup and Recycling Day
+- Concept: Run a neighborhood cleanup near campus with recycling education and city pickup support.
+- Need addressed: Litter, neighborhood pride, and environmental awareness.
+- Target beneficiaries: Campus neighbors and local residents.
+- Rotary areas of focus: Environment.
+- Club fit: One-day project, visible, low cost, and easy for volunteers without cars.
+- Estimated budget: $100 to $350.
+- Volunteer roles: Route captains, supply table, safety lead, photo lead, data tracker.
+- Possible partners: City Sustainability Office, neighborhood association, facilities department.
+- Supplies or venue needs: Gloves, bags, grabbers, safety vests, water, trash pickup plan.
+- Timeline: Two to three weeks to coordinate.
+- Measurable impact: Pounds or bags of litter collected, blocks cleaned, volunteers engaged.
+- Risks or constraints: Weather, sharps safety, city pickup coordination.
+- First three next steps: Confirm cleanup area, request city supplies, create a safety plan.
+- Scores: Impact 3, feasibility 5, partner potential 4, cost fit 5, member engagement 4. Total: 21.
+
+Ranking:
+1. Pantry Power Packs: Best overall partner fit and repeat potential.
+2. Read and Refresh: Equal score, slightly more coordination because school approval may take longer.
+3. Cleanup and Recycling Day: Easiest quick win, but less connected to the club's strongest partner relationships.
+
+Which idea would you like to explore as a full project brief?
+
+User:
+Let's explore Pantry Power Packs.
+
+AI:
+Project brief: Pantry Power Packs
+
+Purpose:
+Provide practical monthly food and hygiene support to students and nearby families through the campus food pantry.
+
+Beneficiaries:
+Students and families who already use the River City University Campus Food Pantry.
+
+Community need:
+Food insecurity and access to basic hygiene supplies can affect student health, attendance, and stability. The project should confirm the pantry's highest-demand items before purchasing supplies.
+
+Proposed partners:
+- River City University Campus Food Pantry
+- Student government
+- Local grocery stores or pharmacies
+- Campus residence halls for donation drives
+
+Rotary area of focus alignment:
+- Community economic development: supports household stability.
+- Disease prevention and treatment: improves access to hygiene supplies.
+
+Scope of work:
+The club will collect donations, purchase priority items, assemble support packs, and deliver them to the pantry for distribution.
+
+Volunteer plan:
+- 1 pantry liaison
+- 2 donation drive leads
+- 2 shopping and inventory volunteers
+- 8 to 12 packing volunteers
+- 1 impact tracker
+- 1 communications lead
+
+Budget estimate:
+- Shelf-stable food: $350
+- Hygiene items: $300
+- Bags, labels, and supplies: $50
+- Reserve for high-demand items: $100
+- Estimated total: $800
+
+Supplies list:
+- Reusable or paper bags
+- Shelf-stable meals and snacks
+- Toothpaste, soap, deodorant, shampoo, period products, and laundry detergent sheets
+- Labels or inserts with pantry hours and campus support resources
+- Tables, gloves if requested by the pantry, and inventory sheets
+
+Timeline:
+- Week 1: Confirm pantry needs and pack count.
+- Week 2: Run donation drive and sponsor asks.
+- Week 3: Purchase supplies and assemble packs.
+- Week 4: Deliver packs and collect impact data.
+- Monthly: Repeat with adjusted item list.
+
+Outreach plan:
+- Ask student government for co-sponsorship.
+- Request grocery gift cards or in-kind donations from nearby stores.
+- Invite residence halls and student organizations to collect specific items.
+
+Safety and accessibility notes:
+- Confirm food allergy guidance with the pantry.
+- Avoid opened, expired, or perishable items.
+- Keep packing location accessible by campus transit and wheelchair accessible where possible.
+- Do not publish beneficiary names or photos without explicit permission.
+
+Success metrics:
+- Number of packs assembled
+- Number of pantry users served
+- Dollar value of donations collected
+- Number of volunteers engaged
+- Pantry feedback on item usefulness
+
+Follow-up plan:
+After each packing day, ask the pantry which items moved fastest and what should change next month.
+
+Sponsor or donation opportunities:
+- $10 funds one hygiene mini-pack.
+- $25 supports one food and hygiene pack.
+- $100 sponsors a packing table.
+
+Club meeting pitch:
+Pantry Power Packs is a monthly Rotaract service project that helps students and nearby families meet immediate food and hygiene needs through our campus food pantry. It fits our budget, works without transportation, and gives members a hands-on way to serve every month.
+
+Draft partner email:
+Subject: Rotaract partnership idea for monthly pantry support packs
+
+Hello [Name],
+
+The Rotaract Club of River City University is interested in supporting the Campus Food Pantry through a monthly Pantry Power Packs project. We would like to assemble food and hygiene support packs based on the pantry's highest-demand items and deliver them for distribution through your existing process.
+
+Could we meet for 20 minutes to ask what items are most useful, how many packs would be appropriate, and what guidelines we should follow?
+
+Thank you,
+[Name]
+Rotaract Club of River City University
+
+Draft social media post:
+Rotaract is launching Pantry Power Packs to support students and neighbors through the Campus Food Pantry. This month, we are collecting shelf-stable snacks, hygiene items, and grocery gift cards. Want to help pack or donate? Message us for the current needs list.
