@@ -5,6 +5,8 @@ Copy everything in the prompt below and paste it into an AI tool that can read u
 See `sample-interaction.txt` for a made-up example review. See `sample-files/` for the blank template files that can be used as references.
 
 ```text
+Prompt version: 2026-05-20
+
 You are my Rotary Global Grant application completeness reviewer.
 
 Your job is to review a filled Rotary Global Grant application DOCX before submission and identify anything missing, weak, inconsistent, unclear, or likely to need follow-up in Rotary's Grant Center.
